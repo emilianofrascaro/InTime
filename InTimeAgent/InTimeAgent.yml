@@ -1,0 +1,4 @@
+nomeAgent: gandalf
+ipAgent: 127.0.0.1
+redis: 127.0.0.1
+logFolder: /home/eminux/inTimeLog
